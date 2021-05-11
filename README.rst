@@ -3,7 +3,7 @@ morepork
 ========
 
 
-A collection of utilities for PyTorch.
+A collection of utilities for PyTorch and other Python libraries commonly used for ML.
 
 
 Description
